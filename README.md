@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![logo](https://github.com/abduljaweed/abduljaweed/blob/main/1675681418944.gif)
 
 <h1 align="center">Hi 👋, I'm Abdul Jaweed</h1>
-<h3 align="center">A Passionate Data Scientist From India</h3>
+<h3 align="center">A Passionate AI Engineer From India</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on **FastAnalytics Python Framework**
 
-- Python ML Library [MLFAST](https://github.com/Abdul-Jaweed/mlfast)
+- Python ML Library [MLFAST](https://pypi.org/project/mlfast/)
 
 - Scania Truck [Sensor Fault Detection](https://github.com/Abdul-Jaweed/sensor-fault-detection)
 
