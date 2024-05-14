@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# **This was my secondary GitHub Account. My Primary GitHub Account Have some issue it will be fixed soon.**
+
 <!--
 **abduljaweed/abduljaweed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
