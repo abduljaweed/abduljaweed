@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# **This was my secondary GitHub Account. My Primary GitHub Account Have some issue it will be fixed soon.**
+# **This was my secondary GitHub Account. My Primary GitHub Account Have some issue from GitHub Side it will be fixed soon.**
 
 <!--
 **abduljaweed/abduljaweed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,11 +42,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on **FastAnalytics Python Framework**
 
-- Python ML Library [MLFAST](https://pypi.org/project/mlfast/)
+- Python ML Library [MLFAST](https://pypi.org/project/mlfast/) (**Fully OpenSource**)
 
-- Scania Truck [Sensor Fault Detection](https://github.com/Abdul-Jaweed/sensor-fault-detection)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Abdul-Jaweed?tab=repositories](https://github.com/Abdul-Jaweed?tab=repositories)
+- Python Data Analytics Framework [FastAnalytics](https://pypi.org/project/FastAnalytics/) (**Partially OpenSource, Fully OpenSource Soon**)
+  
+- **Starry Chronicles: An AI-Powered Bedtime Story App for Kids** (**OpenSource Soon**) 
+  
+- 👨‍💻 All of my projects are available at [https://github.com/Abdul-Jaweed?tab=repositories](https://github.com/abduljaweed?tab=repositories)
 
 - 📫 How to reach me **jdgaming7320@gmail.com**
 
